@@ -1,0 +1,30 @@
+
+/* Class = "UINavigationItem"; title = "销售地区选择"; ObjectID = "0fr-01-pwd"; */
+"0fr-01-pwd.title" = "销售地区选择";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "3V1-e0-mnJ"; */
+"3V1-e0-mnJ.text" = "Title";
+
+/* Class = "UITableViewSection"; headerTitle = "选取销售城市："; ObjectID = "5mX-Bq-D0r"; */
+"5mX-Bq-D0r.headerTitle" = "选取销售城市：";
+
+/* Class = "UINavigationItem"; title = "厂商信息"; ObjectID = "6JY-0L-zGy"; */
+"6JY-0L-zGy.title" = "厂商信息";
+
+/* Class = "UINavigationItem"; title = "厂商列表"; ObjectID = "L4V-Ah-PfX"; */
+"L4V-Ah-PfX.title" = "厂商列表";
+
+/* Class = "UISearchBar"; placeholder = "检索词"; ObjectID = "NiF-9T-FrA"; */
+"NiF-9T-FrA.placeholder" = "检索词";
+
+/* Class = "UIBarButtonItem"; title = "地区选择"; ObjectID = "kni-b5-tlj"; */
+"kni-b5-tlj.title" = "地区选择";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "nxg-ZO-exk"; */
+"nxg-ZO-exk.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "确定"; ObjectID = "pSn-bT-FMA"; */
+"pSn-bT-FMA.normalTitle" = "确定";
+
+/* Class = "UITableViewSection"; headerTitle = "您周围的厂商："; ObjectID = "yjc-wM-FAn"; */
+"yjc-wM-FAn.headerTitle" = "您周围的厂商：";

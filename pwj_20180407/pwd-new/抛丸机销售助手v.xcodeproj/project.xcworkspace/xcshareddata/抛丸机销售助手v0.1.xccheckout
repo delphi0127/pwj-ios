@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E333AAB6-BD4B-46FF-BDA8-08B17A9172E1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>抛丸机销售助手v0.1</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8913760A2B5964E18A11EFD60F7637A390167002</key>
+		<string>ubuntu:delphi0127/pwd-new.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>抛丸机销售助手v0.1.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8913760A2B5964E18A11EFD60F7637A390167002</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ubuntu:delphi0127/pwd-new.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8913760A2B5964E18A11EFD60F7637A390167002</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8913760A2B5964E18A11EFD60F7637A390167002</string>
+			<key>IDESourceControlWCCName</key>
+			<string>pwd-new</string>
+		</dict>
+	</array>
+</dict>
+</plist>

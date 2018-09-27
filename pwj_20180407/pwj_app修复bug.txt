@@ -1,0 +1,17 @@
+修复：
+1 CityViewControllerNew页的布局，不用top和bottom的infered
+2 厂商信息的textview，调整页布局
+3 用户分布地图的标题和数量
+4 帮助信息的优化（storyboard 调为interfered）
+5 厂商列表的检索不能用（键盘）－》过滤算法的编写
+6 nearby的厂商列表 和 城市厂商列表 －》详细信息－》只显示一项厂商
+7 城市－》厂商列表的加载不依赖GPS－》无GPS能用城市的厂商列表了
+8 GPS 为空－》程序不crash
+
+潜在的：
+1 timing to delete sql
+2 storyboard size are not compatible
+3 卖家信息的设计 ，统计单击，界面设计，广告设计(webview)
+          弹message box count search
+
+18610022298 12345678
